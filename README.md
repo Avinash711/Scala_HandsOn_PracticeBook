@@ -1,2 +1,2 @@
 ## Scala Practice Book
- ### Contains the hands practice code for learning scala
+ ### Contains the hands on practice code for learning scala
