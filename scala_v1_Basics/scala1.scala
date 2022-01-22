@@ -1,3 +1,4 @@
+// demo class scala practice set
 object Demo{
     val name:String = "Scala coder"
     var count:Int = 0
