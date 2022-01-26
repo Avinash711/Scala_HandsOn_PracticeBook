@@ -7,3 +7,6 @@ class PythonCool:
   @staticmethod
   def static_method():
     print('I am the utility')
+  
+  def new_method(self):
+    print("I am even cooler than you!!")
