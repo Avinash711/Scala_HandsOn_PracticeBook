@@ -1,3 +1,4 @@
+// main method
 import scala.util.control.Breaks._  
 object MainObject {  
    def main(args: Array[String]) {  
