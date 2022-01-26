@@ -12,3 +12,9 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+# Unit test / coverage reports
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
